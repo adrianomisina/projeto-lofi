@@ -92,6 +92,94 @@
 
     </q-card>
 
+    <q-card class="flex justify-center wrap q-ma-xl q-pt-xl q-pb-xl q-row-gutter-xl bg-blue-grey-10">
+      <q-card class="my-card q-pa-md bg-deep-purple-10 text-white q-ma-md" >
+        <q-video src="https://www.youtube.com/embed/k3_tw44QsZQ?rel=0" />
+
+        <q-card-section>
+          <div class="text-h6">Our Changing Planet</div>
+          <div class="text-subtitle2">by John Doe</div>
+        </q-card-section>
+
+        <q-card-section class="q-pt-none">
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+        </q-card-section>
+      </q-card>
+
+      <q-card class="my-card q-pa-md bg-deep-purple-10 text-white q-ma-md" >
+        <q-video src="https://www.youtube.com/embed/k3_tw44QsZQ?rel=0" />
+
+        <q-card-section>
+          <div class="text-h6">Our Changing Planet</div>
+          <div class="text-subtitle2">by John Doe</div>
+        </q-card-section>
+
+        <q-card-section class="q-pt-none">
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+        </q-card-section>
+      </q-card>
+
+      <q-card class="my-card q-pa-md bg-deep-purple-10 text-white q-ma-md" >
+        <q-video src="https://www.youtube.com/embed/k3_tw44QsZQ?rel=0" />
+
+        <q-card-section>
+          <div class="text-h6">Our Changing Planet</div>
+          <div class="text-subtitle2">by John Doe</div>
+        </q-card-section>
+
+        <q-card-section class="q-pt-none">
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+        </q-card-section>
+      </q-card>
+    </q-card>
+
+    <q-card class="flex justify-center wrap q-ma-xl q-pt-xl q-pb-xl q-row-gutter-xl bg-blue-grey-10">
+      <q-card class="my-card q-pa-md bg-deep-purple-10 text-white q-ma-md" >
+        <q-video src="https://www.youtube.com/embed/k3_tw44QsZQ?rel=0" />
+
+        <q-card-section>
+          <div class="text-h6">Our Changing Planet</div>
+          <div class="text-subtitle2">by John Doe</div>
+        </q-card-section>
+
+        <q-card-section class="q-pt-none">
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+        </q-card-section>
+      </q-card>
+
+      <q-card class="my-card q-pa-md bg-deep-purple-10 text-white q-ma-md" >
+        <q-video src="https://www.youtube.com/embed/k3_tw44QsZQ?rel=0" />
+
+        <q-card-section>
+          <div class="text-h6">Our Changing Planet</div>
+          <div class="text-subtitle2">by John Doe</div>
+        </q-card-section>
+
+        <q-card-section class="q-pt-none">
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+        </q-card-section>
+      </q-card>
+
+      <q-card class="my-card q-pa-md bg-deep-purple-10 text-white q-ma-md" >
+        <q-video src="https://www.youtube.com/embed/k3_tw44QsZQ?rel=0" />
+
+        <q-card-section>
+          <div class="text-h6">Our Changing Planet</div>
+          <div class="text-subtitle2">by John Doe</div>
+        </q-card-section>
+
+        <q-card-section class="q-pt-none">
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+        </q-card-section>
+      </q-card>
+    </q-card>
+
     <q-separator vertical inset />
 
     <q-footer bordered class="bg-blue-grey-10 text-primary">

@@ -25,7 +25,6 @@
     <q-drawer
       v-model="leftDrawerOpen"
       show-if-above
-      
       content-class="bg-blue-grey-10"
     >
       <q-list>
